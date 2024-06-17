@@ -1,0 +1,14 @@
+C:\Repositories\Desafio\Questão numero 10\bin\Debug\net8.0\Questão numero 10.exe
+C:\Repositories\Desafio\Questão numero 10\bin\Debug\net8.0\Questão numero 10.deps.json
+C:\Repositories\Desafio\Questão numero 10\bin\Debug\net8.0\Questão numero 10.runtimeconfig.json
+C:\Repositories\Desafio\Questão numero 10\bin\Debug\net8.0\Questão numero 10.dll
+C:\Repositories\Desafio\Questão numero 10\bin\Debug\net8.0\Questão numero 10.pdb
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\Questão numero 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\Questão numero 10.AssemblyInfoInputs.cache
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\Questão numero 10.AssemblyInfo.cs
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\Questão numero 10.csproj.CoreCompileInputs.cache
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\Questão numero 10.dll
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\refint\Questão numero 10.dll
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\Questão numero 10.pdb
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\Questão numero 10.genruntimeconfig.cache
+C:\Repositories\Desafio\Questão numero 10\obj\Debug\net8.0\ref\Questão numero 10.dll
